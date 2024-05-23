@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <img src="https://github.com/jheral-/jheral-andres/main/banner-gatos-md.gif?raw=true" width="100%" height="350"> -->
-  ![banner gif](https://github.com/jheral-barrera/jheral-barrera/main/banner.gif?raw=true)
+  ![banner gif]([https://github.com/jheral-barrera/jheral-barrera/main/banner.gif?raw=true](https://github.com/jheral-barrera/jheral-barrera/blob/main/banner.gif))
 </p>
 
 # ᓚᘏᗢ Hola, soy Jheral Barrera. Qué tal. 👋
