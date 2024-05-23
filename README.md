@@ -1,4 +1,6 @@
-![](banner.gif)
+<p align="center">
+  <img src="banner.gif" alt="Banner GIF">
+</p>
 
 # ᓚᘏᗢ Hola, soy Jheral Barrera. Qué tal. 👋
 
