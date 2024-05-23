@@ -1,5 +1,5 @@
 <p align="center">
-<!--   <img src="https://github.com/jheral-andres/jheral-andres/main/banner-gatos-md.gif?raw=true" width="1000" height="350"> -->
+  <img src="https://github.com/jheral-andres/jheral-andres/main/banner-gatos-md.gif?raw=true" width="100%" height="350">
 </p>
 
 # ᓚᘏᗢ Hola, soy Jheral Barrera. Qué tal. 👋
