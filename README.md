@@ -4,7 +4,7 @@
 
 # ᓚᘏᗢ Hola, soy Jheral Barrera. Qué tal. 👋
 
-🚀 **Analista Programador en Formación**
+🚀 **Analista Programador egresado en busca de la practica**
 
 🔍 **Un poquito sobre mi:**
 <br>
