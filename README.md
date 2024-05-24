@@ -2,11 +2,15 @@
   <img src="banner.gif" alt="Banner GIF">
 </p>
 
+<br>
+
 <h1 align="center">
   # ᓚᘏᗢ Hola, soy Jheral Barrera. ᓚᘏᗢ ⚡️
 </h1>
 
-🚀 **Analista Programador egresado en busca de la practica**
+<h2 align="center">
+    🚀 **Analista Programador egresado en busca de la practica**
+</h2>
 
 🔍 **Un poquito sobre mi:**
 <br>
