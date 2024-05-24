@@ -54,7 +54,7 @@ Entusiasta del código, me considero una persona amigable y colaborativa. Buscan
 <tr>
 <td>
 <p> 
-  Aplicación web para crear, editar y organizar notas personales con posibilidad de agregar imágenes. La aplicación utiliza    ReactJS para el front-end, Firebase para la autenticación y gestión de datos, y Cloudinary para el almacenamiento de     
+  Aplicación web para crear, editar y organizar notas personales con posibilidad de agregar imágenes.  
   imágenes.
   <br />
   https://journal-app-2bbd9.web.app
