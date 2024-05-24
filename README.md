@@ -4,13 +4,10 @@
 
 <br>
 
-<p align="center">
-  # ᓚᘏᗢ Hola, soy Jheral Barrera. ᓚᘏᗢ ⚡️
-</p>
+# ᓚᘏᗢ Hola, soy Jheral Barrera. ᓚᘏᗢ ⚡️
 
-<h2 align="center">
-    🚀 **Analista Programador egresado en busca de la practica**
-</h2>
+🚀 **Analista Programador egresado en busca de la practica**
+
 
 🔍 **Un poquito sobre mi:**
 <br>
@@ -37,13 +34,10 @@ Entusiasta del código, me considero una persona amigable y colaborativa. Buscan
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](Tailwind-url)
 [![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)]()
 
-## Back-end
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
-
-## Bases de datos
 
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 
