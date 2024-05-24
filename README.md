@@ -4,9 +4,9 @@
 
 <br>
 
-<h1 align="center">
+<p align="center">
   # ᓚᘏᗢ Hola, soy Jheral Barrera. ᓚᘏᗢ ⚡️
-</h1>
+</p>
 
 <h2 align="center">
     🚀 **Analista Programador egresado en busca de la practica**
