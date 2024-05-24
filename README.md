@@ -53,7 +53,12 @@ Entusiasta del código, me considero una persona amigable y colaborativa. Buscan
 <table align="center" style="width:100%">
 <tr>
 <td>
-<p> 👀 Proyectos en construccion... </p>
+<p> 
+  Aplicación web para crear, editar y organizar notas personales con posibilidad de agregar imágenes. La aplicación utiliza    ReactJS para el front-end, Firebase para la autenticación y gestión de datos, y Cloudinary para el almacenamiento de     
+  imágenes.
+  <br />
+  https://journal-app-2bbd9.web.app
+</p>
 </td>
 <td>
 <p> 👀 Proyectos en construccion... </p>
