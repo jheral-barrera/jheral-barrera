@@ -1,8 +1,8 @@
-<p align="center" style="background-color: white;">
+<p align="center">
   <img src="banner.gif" alt="Banner GIF">
 </p>
 
-# ᓚᘏᗢ Hola, soy Jheral Barrera. Qué tal. 👋
+# ᓚᘏᗢ Hola, soy Jheral Barrera. ᓚᘏᗢ ⚡️
 
 🚀 **Analista Programador egresado en busca de la practica**
 
