@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background-color: white;">
   <img src="banner.gif" alt="Banner GIF">
 </p>
 
